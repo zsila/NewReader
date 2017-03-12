@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="reader.android.news"
+    android:versionCode="01"
+    android:versionName="0.1">
+
+
+    <!-- Used for install referrer tracking -->
+    <receiver
+        android:name="com.google.android.apps.analytics.AnalyticsReceiver"
+        android:exported="true">
+        <intent-filter>
+            <action android:name="com.android.vending.INSTALL_REFERRER" />
+        </intent-filter>
+    </receiver>
+
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:enabled="true"
+        android:icon="@drawable/cnnlogo"
+        android:theme="@android:style/Theme.Holo"
+        android:label="@string/app_name">
+
+        <activity
+            android:name=".ParsingXML"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NewsDetail_Act"
+            android:theme="@android:style/Theme.Holo"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="reader.android.news.NEWSDETAIL_ACT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Yazarlar"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="reader.android.news.YAZARLAR" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Photo_Gallery"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="reader.android.news.PHOTO_GALLERY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PhotoDetail"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="reader.android.news.PHOTODETAIL" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Video_Act"
+            android:label="@string/app_name"
+            >
+            <intent-filter>
+                <action android:name="reader.android.news.VIDEO_ACT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".VideoDetail"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="reader.android.news.VIDEODETAIL" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="11" />
+
+    <supports-screens
+        android:anyDensity="true"
+
+        android:largeScreens="true"
+        android:normalScreens="true" />
+
+
+</manifest>

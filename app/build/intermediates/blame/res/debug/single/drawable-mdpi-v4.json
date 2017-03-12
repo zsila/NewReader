@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cnnlogosmall.jpg",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\drawable-mdpi\\cnnlogosmall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\testphoto.jpg",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\drawable-mdpi\\testphoto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cn.jpg",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\drawable-mdpi\\cn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\news.jpg",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\drawable-mdpi\\news.jpg"
+    }
+]

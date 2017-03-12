@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+                  
+        <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_weight="0.12"
+        android:background="@drawable/mainmenu_background" >
+
+        <ImageView
+            android:id="@+id/haberler_pasif" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"  
+            android:clickable="true"
+            android:background="#FFFFFF"
+            android:src="@drawable/news" />
+
+         <ImageView
+            android:id="@+id/yazar_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"
+            android:clickable="true"
+            android:src="@drawable/yazarlar_pasif" />
+         
+        <ImageView
+            android:id="@+id/foto_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"
+            android:clickable="true"
+            android:src="@drawable/fotogaleri_pasif" />
+
+        <ImageView
+            android:id="@+id/video_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"
+            android:clickable="true"
+            android:src="@drawable/videogaleri_pasif" />
+
+    </LinearLayout>
+
+        
+ 
+
+   <HorizontalScrollView
+            android:id="@+id/horizontalScrollView1"
+            android:layout_width="match_parent"
+            android:background="#DBDBDB"
+            android:layout_height="30dp" >
+
+            <LinearLayout
+                android:id="@+id/linearLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                
+                android:background="#DBDBDB"
+                android:orientation="horizontal" >
+                
+               
+
+                <Button
+                    android:id="@+id/bAnasayfa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Anasayfa " />  
+                
+                 <Button
+                    android:id="@+id/bSondakika"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Son Dakika " />
+                 <Button
+                    android:id="@+id/bGundem"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Gündem " />
+                 <Button
+                    android:id="@+id/bEkonomi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Ekonomi " />
+                 <Button
+                    android:id="@+id/bDishaberler"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Dış Haberler " />
+                 <Button
+                    android:id="@+id/bPolitika"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Politika " />
+                 <Button
+                    android:id="@+id/bAilesaglik"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Aile Sağlık " />
+                 <Button
+                    android:id="@+id/bKultursanat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Kültür Sanat " />
+                 <Button
+                    android:id="@+id/bSpor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Spor " />
+                 <Button
+                    android:id="@+id/bBilisim"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Bilişim " />
+                 <Button
+                    android:id="@+id/bTelevizyon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Televizyon " />
+                
+                 <Button
+                    android:id="@+id/bOtomobil"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Otomobil " />
+                 <Button
+                    android:id="@+id/bYorumlar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Yorumlar " />
+                 <Button
+                    android:id="@+id/bRoportaj"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Röportaj " />
+                 
+                 <Button
+                    android:id="@+id/bKursu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Kürsü " />
+                 <Button
+                    android:id="@+id/bPazar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" Pazar " />
+                 <Button
+                    android:id="@+id/bCumaertesi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" CumaErtesi " />
+                 <Button
+                    android:id="@+id/bCuma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="#DBDBDB"
+                    android:textSize="25px"
+                    android:textColor="#000000"
+                    android:clickable="true"
+                    android:text=" CUMA " />
+                 
+         <ImageView
+             
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+       		android:layout_alignParentRight="true"
+            android:layout_weight="0.12"
+            android:src="@drawable/title_vscroll_right" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+ 
+
+    <ListView
+        android:id="@+id/listView_xml"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.7"
+        android:background="#ffffff"
+        android:cacheColorHint="#00000000" >
+
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_left.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\drawable-hdpi\\arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_vscroll_button.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\drawable-hdpi\\title_vscroll_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\zisan\\.android\\build-cache\\d0ed53c8535eac5d7999ed1b382b82c893da264e\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    }
+]

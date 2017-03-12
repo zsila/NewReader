@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+    
+        <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_weight="0.12"
+        android:background="@drawable/mainmenu_background" >
+   
+        <ImageView
+            android:id="@+id/haberler_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"
+            android:clickable="true"
+            android:onClick="imageClick"
+            android:src="@drawable/haberler_pasif" />
+
+         <ImageView
+            android:id="@+id/yazar_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"
+            android:clickable="true"
+            android:onClick="imageClick"
+            
+            android:src="@drawable/yazarlar_pasif" />
+         
+        <ImageView
+            android:id="@+id/foto_pasif"
+            android:layout_width="wrap_content"  
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"
+            android:clickable="true"
+            android:onClick="imageClick"
+            
+            android:src="@drawable/fotogaleri_pasif" />
+
+        <ImageView
+            android:id="@+id/video_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.12"
+            android:clickable="true"
+            android:onClick="imageClick"
+            android:background="#DBDBDB"
+            android:src="@drawable/videogaleri_item" />
+
+    </LinearLayout> 
+
+ 
+
+    <ListView
+        android:id="@+id/listView_xml"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.75"
+        android:background="#ffffff"
+        android:cacheColorHint="#00000000" >
+
+    </ListView>
+
+
+    
+
+</LinearLayout>

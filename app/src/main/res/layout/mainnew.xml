@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#D60B22"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <ImageView
+            android:id="@+id/haberler_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="0.25"
+            android:src="@drawable/newspaper1" />
+
+        <ImageView
+            android:id="@+id/yazar_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/haberler_pasif"
+            android:layout_weight="0.25"
+            android:src="@drawable/yazarlar" />
+
+        <ImageView
+            android:id="@+id/foto_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/yazar_pasif"
+            android:layout_weight="0.25"
+            android:src="@drawable/fotogaleri_pasif" />
+
+        <ImageView
+            android:id="@+id/video_pasif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/foto_pasif"
+            android:layout_weight="0.25"
+            android:src="@drawable/videogaleri_pasif" />
+
+    </LinearLayout>
+
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/linearLayout">
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout">
+
+            <Button
+                android:id="@+id/bTurkiye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Türkiye"
+                android:layout_below="@+id/linearLayout"
+                android:layout_alignParentLeft="true" />
+
+            <Button
+                android:id="@+id/bDunya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dünya"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bTurkiye" />
+
+            <Button
+                android:id="@+id/bSondakika"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Son Dakika"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bDunya" />
+
+            <Button
+                android:id="@+id/bKultursanat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kültür Sanat"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bSondakika" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bilim"
+                android:id="@+id/bBilim"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bKultursanat" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yaşam"
+                android:id="@+id/bYasam"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bBilim" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Magazin"
+                android:id="@+id/bMagazin"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bYasam" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Spor"
+                android:id="@+id/bSpor"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bMagazin" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sağlık"
+                android:id="@+id/bSaglik"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bSpor" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ekonomi"
+                android:id="@+id/bEkonomi"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toRightOf="@+id/bSaglik" />
+
+
+
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <ListView
+        android:id="@+id/listView_xml"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/horizontalScrollView"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFFFF" />
+
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\.android\build-cache\9bc0cb05928ab118150e1c65b9561670a38c5377\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\classes_b4a5e7c894207ecf0523c0182f659cf56a1380a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\.android\build-cache\943bd3004cf4650ead83a9398a88a88d88303cc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\classes_2030a5fa8afac515bded5632b32a22bae732504b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\workspace\NewReader\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_8dcacfc8af5d7c251041ae8b15f104e5e1f5b625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\workspace\NewReader\app\libs\libGoogleAnalytics.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4941a4bb43719931bdbcb1588efba53b273edd1f">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics_bed0078743f385b17738077455a24f93d6fa27a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\workspace\NewReader\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_28b5b98aba8145cb953f74ac3e505ea41c854fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_0e913ee05f8604194f65b15e49ad9e60605bc08e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\workspace\NewReader\app\libs\xstream-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c23741bfc42efa760c6acdb90a131814c70aeb8d">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\xstream-1.3.1_128aa7e579ba1787d2c0bcca62f52b8359132b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zisan\workspace\NewReader\app\libs\google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b1fa7915f859dfc49f506db64fdf1374e2a5497">
+        <dex dex="C:\Users\zisan\workspace\NewReader\app\build\intermediates\pre-dexed\debug\google-play-services_a3315ba38dd18cf7f213f1f9cdb2a025119080a9.jar" />
+    </item>
+
+</items>

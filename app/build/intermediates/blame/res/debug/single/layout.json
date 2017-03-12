@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_gallery_first.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\photo_gallery_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\writers.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\writers.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainnew.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\mainnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\scroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mediaplayer_2.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\mediaplayer_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_noimage.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\detail_noimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\maintwo.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\maintwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yazarlar_xml.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\yazarlar_xml.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_gallery.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\photo_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_detail_new.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\photo_detail_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagelist.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\imagelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\in_gallery.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\in_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_gallery_first.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\video_gallery_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_detail.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\photo_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\writerstwo.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\writerstwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_detail.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\video_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zisan\\workspace\\NewReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\no_image.xml",
+        "source": "C:\\Users\\zisan\\workspace\\NewReader\\app\\src\\main\\res\\layout\\no_image.xml"
+    }
+]
